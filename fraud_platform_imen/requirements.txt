@@ -4,7 +4,7 @@ mysql_connector==2.2.9
 nltk==3.8.1
 # --upgrade setuptools wheel
 numpy==1.24.0
-opencv_python==4.8.0.74
+openCV_Python==4.8.0.74
 opencv_python_headless==4.8.0.76
 pandas==1.5.2
 Pillow==9.3.0
